@@ -1,11 +1,18 @@
-# 🚀 Carreiras Promissoras
+## 🚀 Carreiras Promissoras
 
-Este documento apresenta uma análise de três carreiras altamente alinhadas com perfil profissional voltado para **dados, inteligência artificial e gestão**.  
-A avaliação foi feita com base em sinergia de habilidades, desafios técnicos e oportunidades de mercado.
+Este documento apresenta uma análise de três carreiras altamente alinhadas com perfil profissional voltado para **dados, inteligência artificial e gestão**. A avaliação foi feita com base em sinergia de habilidades, desafios técnicos e oportunidades de mercado.
+
+> ### Variavés de Entrada - Informações passadas
+> - **Carreira escolhida:** AI Product Manager (PM)
+> - **Horas semanais de estudo:** 16h
+> - **Experiência:** iniciante
+> - **Objetivo:** transição de carreira
+> - **Preferência:** dados/código
+> - **Interesses:** inteligência artificial, automação e metodologias ágeis
 
 ---
 
-## 🥇 1º Lugar: **Analista de Inteligência de Dados** — **19/20**
+### 🥇 1º Lugar: **Analista de Inteligência de Dados** — **19/20**
 
 💡 **Por que combina com você:**  
 Carreira que une paixão por **dados** e habilidade em **resolver problemas práticos**.  
@@ -21,7 +28,7 @@ Extremamente aquecido em setores financeiros e de tecnologia. Profissionais que 
 
 ---
 
-## 🥈 2º Lugar: **AI Product Manager (PM)** — **18/20**
+### 🥈 2º Lugar: **AI Product Manager (PM)** — **18/20**
 
 💡 **Por que combina com você:**  
 Aproveita experiência em **gerenciamento de projetos** e **produção executiva**.  
@@ -36,7 +43,7 @@ Em expansão acelerada com o boom da IA generativa. Profissionais que unem gest�
 
 ---
 
-## 🥉 3º Lugar: **Engenheiro de Analytics** — **17/20**
+### 🥉 3º Lugar: **Engenheiro de Analytics** — **17/20**
 
 💡 **Por que combina com você:**  
 Ideal para quem gosta de **código** e **dados**.  
@@ -52,7 +59,7 @@ Nicho com menos concorrência que análise de dados pura. Muito forte em empresa
 
 ---
 
-## 📌 Conclusão
+### 📌 Conclusão
 
 Cada carreira tem pontos fortes e desafios próprios.  
 A escolha depende do equilíbrio entre **afinidade técnica**, **interesse em gestão** e **visão estratégica**.
