@@ -1,18 +1,17 @@
-# 📊Resultado - Plano de Carreira
+## 📊Resultado - Plano de Carreira
 
-## Variavés de Entrada - Informações passadas  
-
-- **Carreira escolhida:** AI Product Manager (PM)
-- **Horas semanais de estudo:** 16h  
-- **Experiência:** iniciante  
-- **Objetivo:** transição de carreira  
-- **Preferência:** dados/código  
-- **Interesses:** inteligência artificial, automação e metodologias ágeis  
+> ### Variavés de Entrada - Informações passadas
+> - **Carreira escolhida:** AI Product Manager (PM)
+> - **Horas semanais de estudo:** 16h
+> - **Experiência:** iniciante
+> - **Objetivo:** transição de carreira
+> - **Preferência:** dados/código
+> - **Interesses:** inteligência artificial, automação e metodologias ágeis
 
 ---
 Este documento apresenta um plano personalizado para a carreira escolhida: **AI Product Manager (PM)**.  
 
-## 🧩 Visão do Dia a Dia
+### 🧩 Visão do Dia a Dia
 
 Como é o trabalho de um(a) **AI Product Manager**:
 
@@ -24,7 +23,7 @@ Como é o trabalho de um(a) **AI Product Manager**:
 
 ---
 
-## 🧠 Mapa de Skills
+### 🧠 Mapa de Skills
 
 **Core Skills:**
 - Metodologias Ágeis  
@@ -45,11 +44,11 @@ Como é o trabalho de um(a) **AI Product Manager**:
 
 ---
 
-## 📅 Roadmap de 90 Dias
+### 📅 Roadmap de 90 Dias
 
 **Adaptação:** 16h/semana — foco em transição e profundidade técnica.
 
-### Mês 1 — Fundamentos e Agilidade
+#### Mês 1 — Fundamentos e Agilidade
 - **Semana 1-2:** Mindset de Produto e IA  
   - Estudo de Scrum e Kanban aplicados a times de dados.  
   - Curso base: AI-900 (Azure AI Fundamentals).  
@@ -57,7 +56,7 @@ Como é o trabalho de um(a) **AI Product Manager**:
   - Domínio de SQL (consultas e agregações).  
   - Automação de processos simples com Make ou Zapier.  
 
-### Mês 2 — Técnica e Métricas
+#### Mês 2 — Técnica e Métricas
 - **Semana 5-6:** Machine Learning para PMs  
   - Aprendizado supervisionado vs. não supervisionado.  
   - Métricas: Precisão, Recall, Matriz de Confusão.  
@@ -65,7 +64,7 @@ Como é o trabalho de um(a) **AI Product Manager**:
   - Arquitetura de LLMs, RAG e custos de tokens.  
   - Prática de Prompt Engineering.  
 
-### Mês 3 — Estratégia e Portfólio
+#### Mês 3 — Estratégia e Portfólio
 - **Semana 9-10:** PRD e Design de IA  
   - Escrita de PRDs para soluções de IA.  
   - Definição de fluxos de fallback.  
@@ -75,7 +74,7 @@ Como é o trabalho de um(a) **AI Product Manager**:
 
 ---
 
-## 🚀 Projeto de Portfólio
+### 🚀 Projeto de Portfólio
 
 **Projeto:** Sistema Inteligente de Triagem de Leads (Lead Scoring AI)  
 
@@ -91,7 +90,7 @@ Como é o trabalho de um(a) **AI Product Manager**:
 
 ---
 
-## 💬 Roteiro de Entrevistas
+### 💬 Roteiro de Entrevistas
 
 **Pergunta 1:** Como decidir se um problema deve ser resolvido com IA?  
 - Resposta: Relacionar custo-benefício. IA é ideal para padrões complexos e escala; regras simples podem ser mais eficientes.  
@@ -110,7 +109,7 @@ Como é o trabalho de um(a) **AI Product Manager**:
 
 ---
 
-## 🎓 Trilha Recomendada
+### 🎓 Trilha Recomendada
 
 **Trilha:** Microsoft Azure AI Fundamentals (DIO)  
 
