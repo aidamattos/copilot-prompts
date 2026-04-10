@@ -1,5 +1,17 @@
 <h1 align="center">IA Mentor de Carreira: Descubra seu futuro em tech</h1>
 
+### 📂 Organização do Projeto
+
+Este repositório contém os arquivos principais do sistema de mentoria em IA para carreiras em tecnologia.  
+Abaixo está o índice organizado para facilitar a navegação:
+
+1. [AGENT 1 - Entrevistador de Carreira em Tecnologia](AGENT%201%20-%20Entrevistador%20de%20Carreira%20em%20Tecnologia.md)
+2. [AGENT 2 - Planejador de Carreiras](AGENT%202%20-%20Planejador%20de%20Carreiras.md)
+3. [Resultado da Entrevista](Resultado-chat-entrevistador.md)
+4. [Plano de Carreira](Resultado-plano-carreira.md)
+5. [README Principal](README.md)
+
+---
 
 ### 💻 Sobre o Projeto
 
